@@ -67,6 +67,7 @@ p{
 
 /*edit to hyper link*/
 a:link{
+        text-align: center;
         color:cadetblue;
 }
 
@@ -80,7 +81,6 @@ body{
 .alignImage1{
     display: flex;
     margin-top: 100px;
-    max-height: 50%
     position: absolute;
     left: 160px;
     /*float: left;
